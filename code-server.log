@@ -1,0 +1,29 @@
+[2025-08-29T16:47:24.249Z] info  code-server 4.103.2 54b33a75e0b4593b77f9a217323c4b27a42f4073
+[2025-08-29T16:47:24.265Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-08-29T16:47:24.325Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2025-08-29T16:47:24.325Z] info  HTTPS server listening on https://0.0.0.0/
+[2025-08-29T16:47:24.325Z] info    - Authentication is enabled
+[2025-08-29T16:47:24.326Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2025-08-29T16:47:24.326Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2025-08-29T16:47:24.326Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[16:49:18] 
+
+
+
+
+[16:49:18] Extension host agent started.
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486170}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486175}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486179}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486186}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486191}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486195}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486203}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486211}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486217}
+Failed login attempt {"remoteAddress":"158.120.42.65","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756486221}
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+[16:50:45] [<unknown>][6334573b][ManagementConnection] New connection established.
+[16:50:47] [<unknown>][6de87d0a][ExtensionHostConnection] New connection established.
+[16:50:47] [<unknown>][6de87d0a][ExtensionHostConnection] <7393> Launched Extension Host Process.
