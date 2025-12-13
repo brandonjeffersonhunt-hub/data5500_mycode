@@ -1,0 +1,73 @@
+{
+  "timestamp_et": "2025-12-12T21:48:52.441877-07:00",
+  "snapshot_file": "/home/ubuntu/data5500_mycode/final_project/data/currency_pair_2025.12.12_21.48.txt",
+  "coins_ids": [
+    "bitcoin",
+    "ethereum",
+    "litecoin",
+    "ripple",
+    "cardano",
+    "bitcoin-cash",
+    "eos",
+    "solana",
+    "polkadot",
+    "chainlink",
+    "stellar",
+    "dogecoin",
+    "avalanche-2"
+  ],
+  "coins_tickers": [
+    "btc",
+    "eth",
+    "ltc",
+    "xrp",
+    "ada",
+    "bch",
+    "eos",
+    "sol",
+    "dot",
+    "link",
+    "xlm",
+    "doge",
+    "avax"
+  ],
+  "min_profit_ratio": 1.01,
+  "best_cycle": {
+    "cycle": [
+      "eos",
+      "btc",
+      "ltc",
+      "dot",
+      "eos"
+    ],
+    "profit_ratio": 1.0010726957632397,
+    "profit_percent": 0.10726957632396505,
+    "edges": [
+      [
+        "eos",
+        "btc",
+        1.98e-06
+      ],
+      [
+        "btc",
+        "ltc",
+        1098.0
+      ],
+      [
+        "ltc",
+        "dot",
+        40.463245
+      ],
+      [
+        "dot",
+        "eos",
+        11.379872
+      ]
+    ]
+  },
+  "paper_trade": {
+    "attempted": false,
+    "reason": "Cycle found but below threshold: 1.001073",
+    "orders": []
+  }
+}
